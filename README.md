@@ -5,6 +5,8 @@ The target audience for this blueprint is
 developers who want a quick start to set up a RAG solution with a path-to-production with the NVIDIA NIM.
 For the prerequisites for this blueprint, see [Minimum System Requirements](/docs/support-matrix.md).
 
+
+
 ## Overview
 
 The NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval Augmented Generation (RAG) pipeline.
