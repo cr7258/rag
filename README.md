@@ -6,7 +6,7 @@ developers who want a quick start to set up a RAG solution with a path-to-produc
 For the prerequisites for this blueprint, see [Minimum System Requirements](/docs/support-matrix.md).
 
 
-## Overview
+## Overview xxxx
 
 The NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval Augmented Generation (RAG) pipeline.
 One of the key use cases in Generative AI is enabling users to ask questions and receive answers based on their enterprise data corpus.
